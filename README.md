@@ -1,4 +1,4 @@
 # ActualWebsite
 Public website project for AP Computer Science class.
-#header 1 
+# Header 1 
 Welcome
