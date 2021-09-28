@@ -1,4 +1,4 @@
 # ActualWebsite
 Public website project for AP Computer Science class.
-# Header 1 
-Welcome
+# Welcome
+Good day everyone, this is a test to see how the Markdown system works. 
