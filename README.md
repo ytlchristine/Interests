@@ -17,5 +17,4 @@ Good day everyone, this is a test to see how the Markdown system works.
 ### Ordered List
 1. Sorbet
 2. Latte
-  1. Almond
-  1. Espresso 
+ 2a. Espresso
