@@ -2,8 +2,8 @@
 ---
 
 @import "{{ site.theme }}";
-.page-header { 
-  color: #c3cfeb;
-  text-align:center;
-  background-color: #7f9fc;
+body {
+    background-repeat: repeat=x;
+    background-color: #fcfbf5; 
+    margin: 0px;
 }
